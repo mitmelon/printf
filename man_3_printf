@@ -1,4 +1,4 @@
-.TH _printf 1 "April 16, 2022" "version 1.0" "_printf man page"
+.TH _printf 1 "Oct 18, 2022" "version 1.0" "_printf man page"
 .SH NAME
 _printf - format and print data
 .SH SYNOPSIS
@@ -82,6 +82,6 @@ If an output error is encountered, a negative value (-1) is returned.
 .SH SEE ALSO
 .I printf(3)
 .SH BUGS
-Report _printf Elizabeth Salako (waleade602@gmail.com), Kouam Franck Joel Gaetan (kouamfranck96@gmail.com)
+Report _printf Adeyeye George (manomitehq@gmail.com), Betty Onomiwo ()
 .SH AUTHORS
-ELizabeth Salako and Kouam Franck Joel Gaetan, ALX Cohort 5.
+Adeyeye George and Betty Onomiwo, ALX Cohort 8.
