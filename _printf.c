@@ -48,5 +48,3 @@ int _printf(const char, *format, ...)
 	var_end(arguments);
 	return (count);
 }
-
-

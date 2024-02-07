@@ -30,4 +30,3 @@ int print_char(va_list l, flag_t f *)
 	_putchar(va_arg(l, int));
 	return (1);
 }
-
