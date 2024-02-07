@@ -42,4 +42,4 @@ _printf("Unknown:[%r]\n");
 printf("Unknown:[%r]\n");
 return (0);
 }
-/*Collaborators: Juskins & MCCHANCE */
+/*Collaborators: Sholawasiu */

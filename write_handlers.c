@@ -250,4 +250,4 @@ int write_pointer(char buffer[], int ind, int length,
 		buffer[--ind] = extra_c;
 	return (write(1, &buffer[ind], BUFF_SIZE - ind - 1));
 }
-/*Collaborators: Juskins & MCCHANCE */
+/*Collaborators: Sholawasiu */
